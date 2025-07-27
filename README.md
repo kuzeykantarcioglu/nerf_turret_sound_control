@@ -1,10 +1,9 @@
 <img width="1024" height="733" alt="Screenshot 2025-07-27 at 6 05 34 PM" src="https://github.com/user-attachments/assets/885c551f-2745-4c56-a243-ccc1345522f1" />
-# Sound-Controlled Nerf Turret  
-**EE14N Final Project — Kuzey Kantarcıoğlu and Chisa Ogaki**
+# Sound-Controlled Nerf Turret | EE14N Final Project — Kuzey Kantarcıoğlu and Chisa Ogaki
 
 ## Overview
 
-This project explores how sound input from a live trumpet can directly control physical hardware in real time. The final system is a rotating turret that detects musical notes, rotates accordingly, and fires a Nerf gun — all controlled purely by pitch detection.
+This project explores how sound input from a live trumpet can directly control physical hardware in real time. The final system is a rotating turret that detects musical notes, rotates accordingly, and fires a Nerf gun all controlled purely by pitch detection.
 
 ## System Breakdown
 
